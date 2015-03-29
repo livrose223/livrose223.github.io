@@ -1,0 +1,39 @@
+body {
+    background: url("http://spacetelescope.org/static/archives/images/screen/opo9841f.jpg");
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: pink;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px; 
+}
+h2 {
+	color: pink;
+    font-size: 40px;  
+}
+
+
+.images img {
+    height: 200px;
+    padding: 40px;
+}
+
+.images {
+    text-align: center;
+}
+
+#return {
+    color: pink;
+    font-size: 15px;
+}
+
+a:hover {
+    color: #ea7004;
+}
